@@ -1,7 +1,5 @@
-# 10Base-T1S_tools
+# 10Base-T1S-USB-ETH
 
-For use with :<br>
-https://www.skpang.co.uk/collections/hats/products/pican-fd-board-with-10base-t1s
 
 
  
